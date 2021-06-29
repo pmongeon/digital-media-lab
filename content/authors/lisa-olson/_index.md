@@ -14,7 +14,7 @@ social:
   link: https://twitter.com/lisa_l_olson
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/lisa-lynn-olson/
 
 user_groups:
   - Coordinator
