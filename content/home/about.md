@@ -13,7 +13,6 @@ headless: true
 weight: 20
 
 title: "About the Digital Media Lab"
-content: "The Digital Media Lab was created by students and faculty of the School of Information Management (SIM) at Dalhousie University."
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
