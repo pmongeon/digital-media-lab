@@ -21,3 +21,4 @@ user_groups:
 ---
 
 # About me
+I am a graduate student in the SIM program and my thesis looks at publications concerning the plague in seventeenth-century England. While my interests vary, I am most interested in the role of the written word in society and throughout history, especially concerning history of the book, censorship, misinformation, and disinformation.
