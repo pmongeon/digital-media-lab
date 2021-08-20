@@ -73,4 +73,4 @@ highlight_name: false
 
 The Digital Media Lab was created by students and faculty of the School of Information Management (SIM) at Dalhousie University.
 It is a collaborative space which focusses on humanistic research in a digital context.
-It seeks to provide a space for SIM graduate students and faculty to engage with research at the intersection between humanities and information science.
+It seeks to provide a space for SIM students and faculty to engage with research at the intersection between humanities and information science.
